@@ -1,0 +1,28 @@
+{
+    "feature_names": [
+        "attendance_avg",
+        "attendance_latest",
+        "attendance_missing_weeks",
+        "attendance_slope",
+        "assessment_avg",
+        "assessment_latest",
+        "assessment_missing_weeks",
+        "assessment_slope",
+        "assignment_avg",
+        "assignment_latest",
+        "assignment_missing_weeks",
+        "assignment_slope",
+        "engagement_avg",
+        "engagement_latest",
+        "engagement_missing_weeks",
+        "engagement_slope",
+        "active_days_avg",
+        "active_days_latest",
+        "active_days_missing_weeks",
+        "active_days_slope",
+        "weighted_attendance_pct",
+        "weighted_assignment_completion",
+        "missing_input_count",
+        "observed_input_count"
+    ]
+}
