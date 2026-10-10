@@ -35,3 +35,4 @@ python -m backend.seed --reset
 * Data is synthetic; metrics are on held-out simulated test students and are not evidence of real impact.
 * Priorities: Medium = F2-optimal threshold, High = F1-optimal threshold, both chosen on validation data.
 * Deck rules (PPT formatting, TeamID_Domain file names) apply to the slides, not the code.
+Working Project Deployed:  https://eduradarhacakthon01-production-9833.up.railway.app/
