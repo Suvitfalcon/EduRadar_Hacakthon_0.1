@@ -124,6 +124,7 @@ Run the backend as above, then in a second terminal:
 cd frontend
 npm run dev
 ```
+/'dkkdk
 
 ### Optional: Retrain the model
 ```bash
