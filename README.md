@@ -7,7 +7,7 @@ Built for the Code Breaker Challenge (CBC 2.0).
 **Live demo:** https://eduradarhacakthon01-production-9833.up.railway.app/
 **Repository:** https://github.com/Suvitfalcon/EduRadar_Hacakthon_0.1
 
---
+
 
 ## 1. Project Description
 
